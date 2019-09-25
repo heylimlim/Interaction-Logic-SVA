@@ -2,4 +2,4 @@
 My first repository at GitHub
 
 Hello. My name is Hyelim:smile:
-Welcom to my repository:dancer:
+Welcome to my repository:dancer:
