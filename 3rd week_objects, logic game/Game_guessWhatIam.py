@@ -103,7 +103,7 @@ def firstGame():
         elif (question2 == "N"):
             print "Do you need more clues?"
             raw_input("press enter >")
-            print "I like catching mouses" #Quiz 3
+            print "I like catching mice" #Quiz 3
 
             print "It is the last hint. Answer the question."
             print "Then, what I am?"
