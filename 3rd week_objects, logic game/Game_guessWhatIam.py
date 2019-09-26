@@ -86,7 +86,7 @@ def firstGame():
     question = raw_input("I know the answer Choose [Y or N]")
 
     if (question == "N"):
-        raw_input("Do you need more clues?")
+        print "Do you need more clues?"
         raw_input("press enter >")
         print "I like catching mice" #Quiz 2
 
